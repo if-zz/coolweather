@@ -11,11 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1433f81d-4ba1-4092-bc67-7a1742d7f807" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/coolweather/app/receiver/AutoUpdateReceiver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/coolweather/app/service/AutoUpdateService.java" />
-      <change type="DELETED" beforePath="G:\AndroidProject\CoolWeather\app\src\main\java\com\coolweather\app\MainActivity.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/coolweather/app/activity/WeatherActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/coolweather/app/activity/WeatherActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CoolWeather.iws" />
@@ -2002,6 +1997,13 @@
       <option name="number" value="Default" />
       <updated>1444140534304</updated>
     </task>
+    <task id="LOCAL-00001" summary="增加后台自动更新天气功能">
+      <created>1446887612969</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1446887612970</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -2059,7 +2061,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="增加后台自动更新天气功能" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加后台自动更新天气功能" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
